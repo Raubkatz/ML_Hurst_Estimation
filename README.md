@@ -3,7 +3,7 @@ This repository contains everything about the porposed method to estimate the Hu
 
 The code still needs to be cleaned, but except for the financial data sets, which we cannot share, is everything available.
 
-If you just wanna use a machine-learning-based estimation of the Hurst exponent, then the "example"-folder will provide you with a working implementation for three test-datasets hat can easily be adapted to your time series data.
+If you just wanna use a machine-learning-based estimation of the Hurst exponent, then the "example"-folder will provide you with a working implementation for three test-datasets hat can easily be adapted to your time series data. Ignore the rest.
 
 You can downnload the training data from my drive:
 
