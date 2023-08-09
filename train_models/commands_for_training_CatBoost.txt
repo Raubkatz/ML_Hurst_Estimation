@@ -1,0 +1,14 @@
+main.py CatBoost_final_10_both CatBoost hurst_10_both -i 10 -v 2 -j -1 
+main.py CatBoost_final_25_both CatBoost hurst_25_both -i 10 -v 2 -j -1 
+main.py CatBoost_final_50_both CatBoost hurst_50_both -i 10 -v 2 -j -1 
+main.py CatBoost_final_100_both CatBoost hurst_100_both -i 10 -v 2 -j -1 
+ 
+main.py CatBoost_final_10_fLm CatBoost hurst_10_fLm -i 10 -v 2 -j -1 
+main.py CatBoost_final_25_fLm CatBoost hurst_25_fLm -i 10 -v 2 -j -1 
+main.py CatBoost_final_50_fLm CatBoost hurst_50_fLm -i 10 -v 2 -j -1 
+main.py CatBoost_final_100_fLm CatBoost hurst_100_fLm -i 10 -v 2 -j -1 
+ 
+main.py CatBoost_final_10_fBm CatBoost hurst_10_fBm -i 10 -v 2 -j -1 
+main.py CatBoost_final_25_fBm CatBoost hurst_25_fBm -i 10 -v 2 -j -1 
+main.py CatBoost_final_50_fBm CatBoost hurst_50_fBm -i 10 -v 2 -j -1 
+main.py CatBoost_final_100_fBm CatBoost hurst_100_fBm -i 10 -v 2 -j -1 
