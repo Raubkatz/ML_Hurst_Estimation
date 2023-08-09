@@ -1,7 +1,7 @@
 # ML_Hurst_Estimation
 This repository contains everything about the porposed method to estimate the Hurst exponent from a given time series data using several ML Algorithms.
 
-At this point we only uploaded all trained models and make the training data available.
+The code still needs to be cleaned, but except for the financial data sets, which we cannot share, is everything available.
 
 You can downnload the training data from my drive:
 
