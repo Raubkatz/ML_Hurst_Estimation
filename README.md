@@ -1,4 +1,6 @@
 # ML_Hurst_Estimation
+This is the code to a preprint: https://www.preprints.org/manuscript/202311.0467/v1
+
 If you just wanna use a machine-learning-based estimation of the Hurst exponent, then the "example"-folder will provide you with a working implementation for three test-datasets hat can easily be adapted to your time series data. Ignore the following.
 
 This repository contains everything about the porposed method to estimate the Hurst exponent from a given time series data using several ML Algorithms.
@@ -11,3 +13,5 @@ https://drive.google.com/drive/folders/1vYdwCgE9l-afB_mm6vpprZ9RWBe7at8z?usp=sha
 
 The fractional Lévy motion code is from:
 https://github.com/cpgr/flm/tree/master
+
+
