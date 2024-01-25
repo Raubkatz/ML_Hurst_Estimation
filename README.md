@@ -1,5 +1,5 @@
 # ML_Hurst_Estimation
-This is the code to a preprint: https://www.preprints.org/manuscript/202311.0467/v1
+This is the code to a paper: https://www.mdpi.com/1099-4300/25/12/1671
 
 If you just wanna use a machine-learning-based estimation of the Hurst exponent, then the "example"-folder will provide you with a working implementation for three test datasets that can easily be adapted to your time series data. Ignore the following.
 
